@@ -1,4 +1,5 @@
 db.sqlite3
-chromedriver
-chromedriver_mac64.zip
 geckodriver.log
+__pycache__
+*.pyc
+functional_tests/screendumps
